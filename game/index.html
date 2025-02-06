@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stone Paper Scissors</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>STONE PAPER SCISSORS</h1>
+    
+    <div class="winner hide">
+        <div class="dec"></div>
+        <button id= "NewGame">New Game</button>
+    </div>
+    <div class="game">
+        <div class="buttons">
+            <button class="btn">stone</button>
+            <button class="btn">paper</button>
+            <button class="btn">scissors</button>
+        </div>
+    </div>
+    <div class="players">
+        <div>
+            <div class="ply">You</div>
+            <div id="userScr">0</div>
+        </div>
+        <div>
+            <div class="ply">Computer</div>
+            <div id="compScr">0</div>
+        </div>
+    </div>
+    <h1 id="result">Result</h1>
+    <button id = "resetGame">Reset Game</button>
+    <script src="script.js"></script>
+</body>
+
+</html>
