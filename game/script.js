@@ -84,13 +84,13 @@ buttons.forEach((btn) => {
             }
         }
 
-        if (usrcount === 3) {
+        if (usrcount === 5) {
             win.innerText = 'Congratulations! You Won!';
             wholeWin.classList.remove('hide');
             wholeWin.classList.add('fllscrn');
 
         }
-        else if (compcount === 3) {
+        else if (compcount === 5) {
             win.innerText = 'Sorry! You lost!';
             wholeWin.classList.remove('hide');
             wholeWin.classList.add('fllscrn');
