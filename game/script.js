@@ -17,6 +17,7 @@ const resetGameFn = () => {
     userscr.innerText = '0';
     compcount = 0;
     compscr.innerText = '0';
+    res.innerText = 'Result';
 } 
 
 
