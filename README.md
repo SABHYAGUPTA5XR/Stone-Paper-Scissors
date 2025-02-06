@@ -1,6 +1,6 @@
 # Stone Paper Scissors Game
 
-A simple **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**. This game allows a user to play against a computer with a basic AI.
+A simple **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**. This game allows a user to play against a computer.
 
 ## 🎮 How to Play
 1. Click on one of the three buttons (**Stone, Paper, or Scissors**).
@@ -38,15 +38,6 @@ A simple **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**
 1. Download or clone this repository.
 2. Open `index.html` in a browser.
 3. Enjoy the game!
-
-## 🖼️ Screenshots
-_Add screenshots here if needed_
-
-## 📌 Future Improvements
-- Add animations for moves.
-- Include sound effects.
-- Improve UI with better styling.
-- Multiplayer mode.
 
 ---
 _Made with ❤️ by sabhya_
